@@ -15,7 +15,21 @@ AutoPunch: Does auto heavy attacks on him when your low on ki.
 Earth: Uses earth pad set to false if you want to use queue worlds.
 ]]
 
-
+ChargeTime = 3 -- How long your character will charge.
+ShowHealth = "Percent"
+TeamDamage = false
+GrabTimeCheck = 20 -- Grab check 30 max 20 min
+RejoinTime = 120 -- Joins Time 
+ExpFreeze = false -- patch
+BadPC = false -- FPS Boost for bad pc
+AntiLeech = false -- Solo Broly 0 player can joins you AutoBroly
+DragonCrush = false -- is patch dont touch
+AutoPunch = true -- AutoPunch Low ki
+Earth = false -- set to true to go to earth. False will go to queue world
+Snake = false  -- Snake Animation true / false true = actived / false = deactivor
+Baible = false -- Baible Animation true / false true = actived / false = deactivor
+Whis = true -- Whis Animation true / false true = actived / false = deactivor
+Beerus = false -- Beerus Animation true / false true = actived / false = deactivor
 
 --[Snake Animation]--
 
